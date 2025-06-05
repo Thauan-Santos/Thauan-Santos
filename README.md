@@ -1,16 +1,21 @@
-## Hi there 👋
+<h3 align="left">Desenvolvedor Backend</h3>
 
-<!--
-**Thauan-Santos/Thauan-Santos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###
 
-Here are some ideas to get you started:
+<p align="left">Me chamo Thauan. Atualmente estou estou dando meus primeiros passos no mundo da programação, estudando Java e os fundamentos do desenvolvimento backend. Atualmente, foco em conceitos como orientação a objetos, boas práticas de código e o uso do Spring Boot para criar minhas primeiras aplicações.</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###
+
+<h2 align="left">Tecnologias</h2>
+
+###
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=spring" height="40" alt="spring logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
+</div>
+
+###
